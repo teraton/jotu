@@ -3,7 +3,7 @@ jotu
 
 Tut-jotu-tracking
 
-Tämän github projektin on tarkoitus toimia bugi raportointi harkan bugien keräys alustana. Repon alle kerätään [kurssin sivujen](http://www.cs.tut.fi/kurssit/TIE-02300/) bugeja harjoitusmielessä.
+Tämän github projektin on tarkoitus toimia bugi raportointi harkan bugien raportointialustana. Repon alle kerätään [kurssin sivujen](http://www.cs.tut.fi/kurssit/TIE-02300/) bugeja harjoitusmielessä.
 
 Bugien kirjaaminen onnistuu seuraavalla tavalla:
 
